@@ -1,2 +1,2 @@
-# Face-Emotion-Detection-Web-Application
-A web application that will detect your emotion from ur face using Deep learning
+# WebCam-Face-Emotion-Detection-Streamlit
+Real time face detection streamlit based bew application for server deployment.
